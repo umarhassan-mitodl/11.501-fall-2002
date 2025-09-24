@@ -59,9 +59,9 @@ Ventura, Michael. "The 21st Century is Now: With Small, Everyday Choices - Wheth
 
 Wellman, Barry, and Keith Hampton. "Living Networked On and Off Line." _Contemporary Sociology_ 28, no. 6 (1999): 648-654.
 
-Wellman, Barry, and Milena Gulia. "Net-Surfers Don't Ride Alone: Virtual Communities as Communities." In _Networks in the Global Village_. Edited by Barry Wellman. Boulder, CO: Westview Press, 1999, pp. 331-366. ISBN: 0813368219. ([PDF](https://www.researchgate.net/publication/2359496_Net_Surfers_Don't_Ride_Alone_Virtual_Communities_As_Communities))
+Wellman, Barry, and Milena Gulia. "Net-Surfers Don't Ride Alone: Virtual Communities as Communities." In _Networks in the Global Village_. Edited by Barry Wellman. Boulder, CO: Westview Press, 1999, pp. 331-366. ISBN: 0813368219. ({{% resource_link "2f7845f4-e718-43b6-b963-4f08c55ccdc9" "PDF" %}})
 
-Wellman, Barry. "[Physical Place and Cyber Place: The Rise of Personalized Networking](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.00309)." _International Journal of Urban and Regional Research_ 25, no. 2 (2001): 227-252.
+Wellman, Barry. "{{% resource_link "83c783ac-18b1-4be5-9151-10065c05d9d8" "Physical Place and Cyber Place: The Rise of Personalized Networking" %}}." _International Journal of Urban and Regional Research_ 25, no. 2 (2001): 227-252.
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Urban Spatial Structure: Understanding, Representing and Visualizing Place
 {{< tdopen >}}
 
 
-Batty, Michael, et al. "Visualzing the City: Communicating Urban Design to Planners and Decision Makers." Chapter 13 in _Planning Support System: Integrating Geographic Information Systems, Models and Visualization Tools_. Edited by R. Brail and R. Klosterman. Redlands, CA: ESRI Press, 2001. ISBN: 1589480112. ([PDF - 3.3 MB](https://discovery.ucl.ac.uk/id/eprint/158113/1/paper26.pdf))
+Batty, Michael, et al. "Visualzing the City: Communicating Urban Design to Planners and Decision Makers." Chapter 13 in _Planning Support System: Integrating Geographic Information Systems, Models and Visualization Tools_. Edited by R. Brail and R. Klosterman. Redlands, CA: ESRI Press, 2001. ISBN: 1589480112. ({{% resource_link "0ca0e3e1-ff59-4c25-b2dc-32b8175731e1" "PDF - 3.3 MB" %}})
 
 Singh, Raj. "Adapting Geographic Information Systems to Sketch Planning Needs." MCP Thesis. Cambridge, MA: MIT, 1996. An article based on this thesis is published in Environment and Planning B but is not available online. A shorter paper, "Sketch Planning with GIS," was presented at the Summer Assembly of the University Consortium for Geographic Information Sciences (UCGIS), 1997.
 
@@ -203,7 +203,7 @@ Graham, Stephen. _Splintering Urbanism: Networked Infrastructures, Technological
 
 Ostwald, Michael. "Virtual Urban Futures." In _Virtual Politics: Identity and Community in Cyberspace_. Edited by David Holmes. London, UK: Sage, 1997, pp. 125-144. ISBN: 0761956093.
 
-Dotinga, Randy. "[Stalker Tech: Students at the University of California at San Diego are Tracking their Friends' Locations with PDAs](https://www.salon.com/2002/06/11/stalker_tech/)." In _Salon.com_. June 11, 2002.
+Dotinga, Randy. "{{% resource_link "4e4beeb2-6899-4edd-980f-88fb7c600fae" "Stalker Tech: Students at the University of California at San Diego are Tracking their Friends' Locations with PDAs" %}}." In _Salon.com_. June 11, 2002.
 
 
 {{< tdclose >}}
@@ -263,11 +263,11 @@ E-government - Beyond Automation
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/high-technology-and-low-income-communities) Ferreira, Joseph, Jr. "Information Technologies that Change Relationships between Low-Income Communities and the Public and Non-profit Agencies that Serve Them." Chapter 7 in [_High Technology and Low-Income Communities: Prospects for the Positive Use of Advanced Information Technology_](https://mitpress.mit.edu/books/high-technology-and-low-income-communities). Edited by D. Schon, W. Mitchell, and B. Sanyal. Cambridge, MA: MIT Press, 1998. ISBN: 026269199X.
+{{% resource_link "6995dc32-cdc3-4132-8b0d-e02510fa6ccf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ferreira, Joseph, Jr. "Information Technologies that Change Relationships between Low-Income Communities and the Public and Non-profit Agencies that Serve Them." Chapter 7 in {{% resource_link "6995dc32-cdc3-4132-8b0d-e02510fa6ccf" "_High Technology and Low-Income Communities: Prospects for the Positive Use of Advanced Information Technology_" %}}. Edited by D. Schon, W. Mitchell, and B. Sanyal. Cambridge, MA: MIT Press, 1998. ISBN: 026269199X.
 
 Fountain, Jane. _Building the Virtual State: Information Technology and Institutional Change_. Washington, DC: Brookings Institution Press, 2001, chapters 1, 2, 6, 9 and 11. ISBN: 0815700776.
 
-[NSF Digital Government Program](https://www.nsf.gov/pubs/2004/nsf04521/nsf04521.htm). 
+{{% resource_link "73904ede-fb7f-4573-b6b7-0f77481670e6" "NSF Digital Government Program" %}}. 
 
 Zuboff, Shoshana. "Informate the Enterprise." _Phi Kappa Phi Journal_ (Summer, 1991): 3-7. (This article summarizes key ideas in Zuboff, A. _In the Age of the Smart Machine: The Future of Work and Power._ New York, NY: Basic Books, 1989. ISBN: 0465032117.)
 
@@ -289,7 +289,7 @@ National Research Council Mapping Science Committee. _Toward a Coordinated Spati
 
 ———. "Linking Remote Sensing and Social Science: The Need and the Challenges by R. Rindfuss and P. Stern," "Extraction and Modeling of Urban Attributes Using Remote Sensing Technology by D. Cowen and J. Jensen." In _People and Pixels_. Washington DC: National Academy Press, 1998, chapters 1, 8. ISBN: 0309064082.
 
-"Coordinating Geographic Data Acquisition and Access: The national Spatial Data Infrastructure." [The Federal Geographic Data Committee](https://www.usa.gov/federal-agencies/federal-geographic-data-committee) and Executive Order 12906. ([PDF](http://www.archives.gov/federal-register/executive-orders/pdf/12906.pdf))
+"Coordinating Geographic Data Acquisition and Access: The national Spatial Data Infrastructure." {{% resource_link "e9e3a7ea-9bea-4e2d-aca9-3989c6c1f747" "The Federal Geographic Data Committee" %}} and Executive Order 12906. ({{% resource_link "9f3e1dd1-79fc-4eba-9072-048157a99365" "PDF" %}})
 
 Cahan, Bruce. "Strategic investing in Community GIS." Presentation at Next Generation Community Statistical Systems Conference, Tampa. 2002.
 
@@ -311,7 +311,7 @@ Pickles, John, ed. _Ground Truth: The Social Implications of Geographic Informat
 
 Ferraz de Abreu, Pedro. "New Information Technologies in Public Participation: A Challenge to Old Decision-Making Institutional Frameworks." Ph.D. Thesis. Cambridge, MA: MIT, 2002. (Focus on chapters 2, and 7.)
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/technology-and-privacy) Agre, Philip E., and Marc Rotenberg, eds. "Beyond the Mirror World: Privacy and the Representational Practices of Computing." In [_Technology and Privacy: The New Landscape_](https://mitpress.mit.edu/books/technology-and-privacy). Cambridge, MA: MIT Press, 1997, introduction and chapter 1. ISBN: 0262511010.
+{{% resource_link "24426267-6512-43ff-b228-d7f7e2bc2ac9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Agre, Philip E., and Marc Rotenberg, eds. "Beyond the Mirror World: Privacy and the Representational Practices of Computing." In {{% resource_link "24426267-6512-43ff-b228-d7f7e2bc2ac9" "_Technology and Privacy: The New Landscape_" %}}. Cambridge, MA: MIT Press, 1997, introduction and chapter 1. ISBN: 0262511010.
 
 
 {{< tdclose >}}
